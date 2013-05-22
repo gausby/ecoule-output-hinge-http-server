@@ -1,0 +1,27 @@
+{
+    "name": "ecoute-output-hinge-http-server",
+    "version": "0.0.1",
+    "description": "An Écoute transform output that creates a HTTP-server from a given key-value output.",
+    "author": "Martin Gausby <martin@gausby.dk>",
+    "repository": "git@github.com:gausby/ecoute-output-hinge-http-server.git",
+    "main": "lib/ecoute-output-hinge-http-server.js",
+    "dependencies": {
+        "hinge": "~0.0.1"
+    },
+    "devDependencies": {
+        "grunt": ">= 0.4.0rc7",
+        "grunt-buster": ">= 0.1.2",
+        "grunt-contrib-jshint": ">= 0.1.0",
+        "grunt-contrib-watch": ">= 0.2.0rc7",
+        "grunt-clear": ">= 0.1.2",
+        "grunt-contrib-yuidoc": ">= 0.3.2",
+        "grunt-connect": ">= 0.2.0",
+        "grunt-benchmark": ">= 0.1.3",
+
+        "buster": ">= 0.6.12"
+    },
+    "scripts": {
+        "test": "grunt test"
+    },
+    "engine": "*"
+}
