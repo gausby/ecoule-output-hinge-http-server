@@ -1,15 +1,15 @@
-Hinge HTTP Server Output for Écoute
+Hinge HTTP Server Output for Écoule
 ===================================
-An [Écoute][ecoute-core] transform output that creates a HTTP-server from a given key-value output using [Hinge][hinge].
+An [Écoule][ecoule-core] transform output that creates a HTTP-server from a given key-value output using [Hinge][hinge].
 
 [hinge]: https://github.com/gausby/hinge
-[ecoute-core]: https://github.com/gausby/ecoute
+[ecoule-core]: https://github.com/gausby/ecoule
 
 This outputer should only be used for development.
 
 
 ## Usage
-Attach it as an output of an Écoute data transformer. It takes two configuration options:
+Attach it as an output of an Écoule data transformer. It takes two configuration options:
 
   * `port` The port number the server should respond to. Default is *8080*.
 

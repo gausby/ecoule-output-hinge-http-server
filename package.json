@@ -1,10 +1,10 @@
 {
-    "name": "ecoute-output-hinge-http-server",
+    "name": "ecoule-output-hinge-http-server",
     "version": "0.0.1",
-    "description": "An Écoute transform output that creates a HTTP-server from a given key-value output.",
+    "description": "An Écoule transform output that creates a HTTP-server from a given key-value output.",
     "author": "Martin Gausby <martin@gausby.dk>",
-    "repository": "git@github.com:gausby/ecoute-output-hinge-http-server.git",
-    "main": "lib/ecoute-output-hinge-http-server.js",
+    "repository": "git@github.com:gausby/ecoule-output-hinge-http-server.git",
+    "main": "lib/ecoule-output-hinge-http-server.js",
     "dependencies": {
         "hinge": "~0.0.1"
     },
