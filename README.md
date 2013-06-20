@@ -13,7 +13,7 @@ Attach it as an output of an Écoule data transformer. It takes two configuratio
 
   * `port` The port number the server should respond to. Default is *8080*.
 
-  * `contentType` The content type the server will send. Default is *text/html*.
+  * `mimetype` A key-value object of content types the server will send. The default will handle .css, .html, .js and .json.
 
 Options should get passed in as an Object.
 
