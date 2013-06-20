@@ -1,6 +1,6 @@
 {
     "name": "ecoule-output-hinge-http-server",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "An Écoule transform output that creates a HTTP-server from a given key-value output.",
     "author": "Martin Gausby <martin@gausby.dk>",
     "repository": "git@github.com:gausby/ecoule-output-hinge-http-server.git",
